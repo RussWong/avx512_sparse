@@ -1,1 +1,1 @@
-# avx512_sparse_dense_gemm
+# avx512_sparse_gemm
